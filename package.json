@@ -1,0 +1,14 @@
+{
+  "name": "@brassta/brasstafirst",
+  "version": "0.0.1",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "brassta/testnpm",
+  "main": "index.js",
+  "keywords": [
+    "brassta",
+    "npm",
+    "package",
+    "agenzzia"
+  ]
+}
